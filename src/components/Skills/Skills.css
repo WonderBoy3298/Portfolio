@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Rancho&family=Water+Brush&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+
+.progressbar{
+    width: 80%;
+    height: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: stretch;
+    border-radius: 3px;
+    background-color: #494b52;
+    overflow: hidden;
+  
+}
+
+.bar{
+    width: 0%;
+    background-color: rgb(255,174,105);
+}

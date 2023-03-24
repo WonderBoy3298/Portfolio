@@ -1,0 +1,18 @@
+
+.progressbar{
+    width: 80%;
+    height: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: stretch;
+    border-radius: 3px;
+    background-color: #494b52;
+    overflow: hidden;
+  
+}
+
+.bar{
+    width: 0%;
+    background-color:  rgb(56 189 248);
+}
