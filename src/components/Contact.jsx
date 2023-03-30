@@ -69,6 +69,7 @@ function Contact(props) {
         >
 
           <form
+          
           onSubmit={onSubmit}
           target="_blank"
           method="POST"
@@ -139,13 +140,13 @@ function Contact(props) {
                   "Max length is 2000 char."}
               </p>
             )}
-
-                <button className='p-3 ss:p-5 bg-yellow font-semibold text-deep-blue mt-5 hover:bg-red hover:text-white transition duration-500 '
+              <div className='flex justify-center '>
+                <button className='p-3 ss:p-5   bg-yellow font-semibold text-deep-blue mt-5 hover:bg-red hover:text-white transition duration-500 '
                 type='submit'
                 >
                     SEND A MESSAGE
                 </button>
-
+              </div>
 
 
 

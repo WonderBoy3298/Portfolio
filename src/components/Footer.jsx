@@ -11,7 +11,7 @@ function Footer(props) {
     return (
     <footer className="h-64 bg-red pt-10">
       <div className="w-10/12 mx-auto ">
-        <div className='flex justify-start'>
+        <div className='flex justify-center sm:justify-start '>
         < SocialIcone/>
         </div>
         <div className="md:flex justify-center md:justify-between text-center ">
