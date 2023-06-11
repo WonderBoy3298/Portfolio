@@ -56,7 +56,7 @@ function Navbar(props) {
                             setselectedPage={props.setselectedPage}
                             />
                             
-                            <a href='https://bit.ly/405wDPR' className='hover:text-yellow transition duration-500'>
+                            <a href='https://bit.ly/3NmWJJU' className='hover:text-yellow transition duration-500'>
                                 Resume
                             </a>
                             <Link page="Contact"
