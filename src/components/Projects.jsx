@@ -93,7 +93,7 @@ function Projects(props) {
             <Project title="Project 1" text=" Booking Clone with MERN Stack " live={true} url="https://github.com/WonderBoy3298/BookingCopie"/>
             <Project title="Project 2" text="An E-commerce Website build with Angular and spring-boot" live={false} url="https://github.com/WonderBoy3298/BookingCopie" />
             <Project title="Project 3" text="Netflix Clone with Mern Stack" live={true} url="https://github.com/WonderBoy3298/BookingCopie"/>
-            <Project title="Project 4" text="Movie App in React and spring boot" url="https://github.com/WonderBoy3298/BookingCopie"/>
+            <Project title="Project 4" text="simple web app for managing Pokémon using Angular" live={true} url="https://ng-pokemon-app-a02b7.web.app/login"/>
             
 
         </motion.div>
